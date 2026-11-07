@@ -105,7 +105,7 @@ If you face issues or have suggestions, feel free to contact me.
  GitHub: [ZeeshanAhmad008]
 
 # Author
-Zeeshan Ahmad (@ZeeshanAhmad008)
+Zeeshan Ahmad (@zeeshan-builds)
 
 # Version History
 
